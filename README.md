@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @revanthmad
-- 👀 I’m interested in Data Science all along, Analysis and Prediction stuff LOL, Data Analyst on the cards
+- 👀 I’m interested in Data Science all along, *Analysis - Prediction - Repeat* stuff LOL, 
 - 🌱 I’m currently learning machine learning with Python's Scikit-learn and Tensorflow, trying the ways ahead of time
 - 💞️ I’m looking to collaborate on Data Science and Machine Learning associates
 - 📫 Reach me on Gmail: revanthmadupoju@gmail.com
