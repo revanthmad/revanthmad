@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @revanthmad
+- 👋 Hey, there! I’m Revanth 
 - 👀 I’m interested in Data Science all along, **Analysis - Prediction - Repeat** stuff LOL!
-- 🌱 I’m currently learning Machine Learning with Python's Scikit-learn and Tensorflow, looking to trying something new
-- 💞️ I’m looking to collaborate with Data Science and Machine Learning associates
+- 🌱 I’m currently on a personal mission building real-world data solutions using Python and SQL
+- 💞️ I’m looking to collaborate with Backend Developers, Data Science and Machine Learning Associates
 - 📫 Reach me: revanth.madupoju@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: alienating on Github, we're on the same boat!
