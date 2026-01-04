@@ -1,5 +1,5 @@
 - 👋 Hey, there! I’m Revanth 
-- 👀 I’m interested in Data Science all along, **Analysis - Prediction - Repeat** stuff LOL!
+- 👀 I’m interested in playing around Data ~ **Organise - Collect - Select - Analyse - Predict - Repeat** stuff LOL!
 - 🌱 I’m currently on a personal mission building real-world data solutions using Python and SQL
 - 💞️ I’m looking to collaborate with Backend Developers, Data Science and Machine Learning Associates
 - 📫 Reach me: revanth.madupoju@outlook.com
